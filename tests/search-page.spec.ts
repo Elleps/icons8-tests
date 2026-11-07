@@ -1,4 +1,5 @@
 import { expect, test } from '@playwright/test';
+
 import { prepareIcons8Consent } from './helpers/consent';
 
 test.describe('Icon search', () => {
